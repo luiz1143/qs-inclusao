@@ -1,0 +1,10 @@
+.nav-link.admin {
+  background-color: #00a3a3;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+}
+
+.nav-link.admin:hover {
+  background-color: #008080;
+}
